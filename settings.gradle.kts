@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "StudySmart"
+rootProject.name = "Synergy"
 include(":app")
  

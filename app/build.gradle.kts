@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.studysmart"
+    namespace = "com.example.synergy"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.studysmart"
+        applicationId = "com.example.synergy"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
